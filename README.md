@@ -1,11 +1,13 @@
 Digital Literacy Project – README
 
-Project Overview
+Project Overview:
+
 The Digital Literacy Project focuses on building awareness and essential skills required for safe, responsible, and effective use of digital technologies. It covers important aspects such as internet safety, cyberbullying, digital , and online fraud prevention.
 The project is designed around a real-life student scenario where daily online activities expose users to risks like phishing, cyberbullying, and scams. The goal is to help students become smart and responsible digital citizens. 
 report_Project_Report.pdf 
 
-Student Details
+Student Details:
+
 Name: Sonali
 Registration Number: 25BAI11316
 Branch: CSE (AI & ML)
@@ -14,7 +16,7 @@ Course Code: CSE001 (Digital Literacy)
 report_Project_Report.pdf 
 
 
-Module Summaries
+Module Summaries:
 
 Task 1 – Digital Literacy Infographic
 Created a one-page infographic explaining digital literacy, internet safety, and useful digital tools. Designed using Canva with a focus on clarity and visual appeal.
@@ -42,7 +44,8 @@ Task 5 – Cybercrime Awareness Case Study
 Focused on cyberbullying, its causes, impact, and prevention.
 Learned the importance of responsible online behavior and reporting misuse.
 
-Useful Links
+Useful Links:
+
 Canva: https://www.canva.in⁠ 
 GitHub: https://github.com⁠ 
 LinkedIn: https://www.linkedin.com⁠ 
@@ -53,13 +56,15 @@ National Cyber Crime Portal: https://cybercrime.gov.in⁠
 Google Safety Center: https://safety.google⁠ 
 report_Project_Report.pdf 
 
-Key Learnings
+Key Learnings:
+
 Importance of digital safety and awareness
 Building a professional online identity
 Basics of coding and collaboration tools
 Effective communication and email etiquette
 Understanding cyber threats like cyberbullying
 
-Conclusion
+Conclusion:
+
 This project enhanced my technical, communication, and critical thinking skills. It prepared me to use digital technologies safely and effectively for academic and professional growth.  
 report_Project_Report.pdf 
